@@ -1,0 +1,54 @@
+C:\Users\24cse\Downloads\Assignment 2>python -u "c:\Users\24cse\Downloads\Assignment 2\Assignment 2\Q1.py"
+using logic:
+Mean= 17.75
+using library function:
+Mean= 17.75
+
+C:\Users\24cse\Downloads\Assignment 2>python -u "c:\Users\24cse\Downloads\Assignment 2\Assignment 2\Q2.py"
+using logic:
+Median= 19.0
+using library function:
+The median is 19.0
+
+C:\Users\24cse\Downloads\Assignment 2>python -u "c:\Users\24cse\Downloads\Assignment 2\Assignment 2\Q3.py"
+using logic:
+max observation 20
+using library function:
+20
+
+C:\Users\24cse\Downloads\Assignment 2>python -u "c:\Users\24cse\Downloads\Assignment 2\Assignment 2\Q4.py"
+using logic:
+variance = 22.6875
+using library function:
+variance: 22.6875
+
+C:\Users\24cse\Downloads\Assignment 2>python -u "c:\Users\24cse\Downloads\Assignment 2\Assignment 2\Q5.py"
+using logic:
+Standard Deviation : 4.763139720814412
+using library function:
+Standard deviation: 4.763139720814412
+
+
+C:\Users\24cse>python -u "c:\Users\24cse\Downloads\Assignment 2\Assignment 2\A-2,Q-7.py"
+Mean: 32.22222222222222
+Median: 30.0
+Mode: 10
+Variance: 228.39506172839506
+Standard Deviation: 15.112745009706048
+
+
+C:\Users\24cse>python -u "c:\Users\24cse\Downloads\Assignment 2\Assignment 2\A-2,Q-7.py"
+Mean: 32.22222222222222
+Median: 30.0
+Mode: 10
+Variance: 228.39506172839506
+Standard Deviation: 15.112745009706048
+
+
+C:\Users\24cse>python -u "c:\Users\24cse\AppData\Local\Temp\83148292-1266-4ffa-b876-162a9b3ba946_A-2,Q-8.zip.946\A-2,Q-8.py"
+0.6388225395319362
+Random choice from list: 80
+Random choice from another list: 2
+Random number using randrange: 34
+Another random number: 0.5703872816434791
+After seed: 0.6229016948897019
